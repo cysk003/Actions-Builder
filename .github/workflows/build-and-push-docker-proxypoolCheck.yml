@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/proxypool:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/proxypoolCheck:latest
