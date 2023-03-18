@@ -1,4 +1,4 @@
-name: build-and-push-docker-proxypool
+name: docker-proxypool
 
 on:
   workflow_dispatch:
